@@ -1,0 +1,21 @@
+#root{
+ padding:3%;
+ margin: 0 auto;
+}
+input {
+  width: 98%;
+}
+
+td, th {
+  width: 5rem;
+  height: 1.5rem;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+th {
+  background: lightblue;
+  border-color: white;
+}
+body {
+  padding: .5rem;
+}
